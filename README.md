@@ -1,6 +1,8 @@
 # Tp_Students_Registration
 M2i::JAVA
 
+![alt text](https://github.com/NunMimYa/Tp_Students_Registration/blob/main/DEMO.PNG)
+
 Exercice (École)
 • Nous voulons gérer une inscription d’élèves dans une école.
 • Notre école gère un ensemble de cours. Un cours est caractérisé
